@@ -22,9 +22,14 @@ body{
     font-size: 24px;
 }
 
+.top-left a,
+.blue-box-right a {
+    text-decoration: none;
+    color: #f9faf8;
+}
+
 .logo,
 .top-section h1,
-button,
 .blue-box-left h3 {
     color: #f9faf8;
 }
