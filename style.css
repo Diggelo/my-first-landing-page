@@ -24,9 +24,12 @@ body{
 .logo,
 .header-links a,
 .top-section h1,
-.top-section p,
 button {
     color: #f9faf8;
+}
+
+.top-section p {
+    color: #e5e7eb;
 }
 
 .header .inside {
