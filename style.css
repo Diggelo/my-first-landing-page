@@ -101,7 +101,6 @@ button {
     justify-content: space-evenly;
     align-items: center;
     padding-bottom: 80px;
-
 }
 
 .card {
@@ -111,4 +110,21 @@ button {
 
 .info-card-section img {
     width: 150px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 80px 0;
+}
+
+.quote-section blockquote {
+    font-weight: 300;
+    margin: 0;
+}
+
+.quote-section figcaption {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 50px;
 }
