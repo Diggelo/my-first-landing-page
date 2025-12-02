@@ -22,14 +22,15 @@ body{
 }
 
 .logo,
-.header-links a,
 .top-section h1,
 button {
     color: #f9faf8;
 }
 
-.top-section p {
+.top-section p,
+.header-links a {
     color: #e5e7eb;
+    font-size: 18px;
 }
 
 .header .inside {
@@ -56,6 +57,7 @@ button {
     display: flex;
     padding: 90px 0;
     justify-content: space-around;
+    gap: 50px;
 }
 
 .top-section h1{
